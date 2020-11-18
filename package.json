@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "1.9.0",
-  "productName": "Magic Building Technology",
+  "name": "mbt-launcher",
+  "version": "1.8.0",
+  "productName": "Magic-Building-Technology",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/stefanocodingnl/HeliosLauncher",
+  "homepage": "https://github.com/stefanocodingnl/MBT-Launcher",
   "bugs": {
-    "url": "https://github.com/stefanocodingnl/HeliosLauncher/issues"
+    "url": "https://github.com/stefanocodingnl/MBT-Launcher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stefanocodingnl/HeliosLauncher.git"
+    "url": "git+https://github.com/stefanocodingnl/MBT-Launcher.git"
   }
 }
